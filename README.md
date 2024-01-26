@@ -1,4 +1,4 @@
-# payment_app
+# checkout_payment_ui
 
 A new Flutter project.
 
@@ -8,9 +8,19 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://github.com/ahmedmaher15/checkout_payment_ui/assets/69214341/d2707f51-2ca3-46e6-8fbc-c0f01015d19d" width="
+390" height="
+844">
+
+<img src="https://github.com/ahmedmaher15/checkout_payment_ui/assets/69214341/f89eb31f-25c3-4272-af01-21f3259ab00f" width="
+390" height="
+844">
+
+<img src="https://github.com/ahmedmaher15/checkout_payment_ui/assets/69214341/b15d2238-b088-4195-83cc-5d10a6156aa5" width="
+390" height="
+844">
+
+
