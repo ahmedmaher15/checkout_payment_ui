@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:payment_app/features/checkout/presentation/views/my_cat_view.dart';
 
 main(){
@@ -15,3 +16,7 @@ class CheckOutApp extends StatelessWidget {
     );
   }
 }
+  //1-  Create PaymentIntent (amount ,currency) will receive an PaymentIntentObject
+  //2- init payment sheet (paymentIntentClientSecret)
+  //3- presentPaymentSheet()
+
