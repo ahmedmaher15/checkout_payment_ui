@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
+import 'package:payment_app/core/utils/api_keys.dart';
 import 'package:payment_app/features/checkout/presentation/views/my_cat_view.dart';
 
 main(){
-  runApp(CheckOutApp());
+   Stripe.publishableKey=ApiKeys.publishableKey;
+  runApp(const CheckOutApp());
 }
 class CheckOutApp extends StatelessWidget {
   const CheckOutApp({super.key});
